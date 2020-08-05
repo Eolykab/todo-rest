@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "title": "Attend a webinar",
+      "description": "A webinar about machine learning",
+      "status": "New",
+      "due_date": "2020-10-10"
+    },
+    {
+      "title": "Buy groceries",
+      "description": "Buy groceries for the whole house",
+      "status": "Completed",
+      "due_date": "2020-08-03"
+    },
+    {
+      "title": "Read a book",
+      "description": "A read a book on Artificial Intelligence",
+      "status": "In Progress",
+      "due_date": "2020-08-02"
+    },
+    {
+      "title": "Gardening",
+      "description": "Perform gardening",
+      "status": "New",
+      "due_date": "2020-08-10"
+    },
+    {
+      "title": "Watch News",
+      "description": "Watch news on Lebanon Explosion",
+      "status": "Completed",
+      "due_date": "2020-08-05"
+    },
+    {
+      "title": "Research on deep learning",
+      "description": "A research how to implement face recognition.",
+      "status": "New",
+      "due_date": "2020-10-10"
+    },
+    {
+      "title": "Drum rehearsal",
+      "description": "Learn how to play the drum",
+      "status": "New",
+      "due_date": "2020-09-10"
+    },
+    {
+      "title": "Prepare for exams",
+      "description": "Read and take notes for Biometrics Exam",
+      "status": "Blocked",
+      "due_date": "2020-07-10"
+    },
+    {
+      "title": "Go to the hairdresser",
+      "description": "Cut my hair",
+      "status": "Blocked",
+      "due_date": "2020-08-02"
+    }
+  ]
+}
